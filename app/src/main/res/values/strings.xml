@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">KRYPTO</string>
+    <string name="search_for_crypto_currency">Search For Crypto Currency</string>
+    <string name="addItem">Add</string>
+    <string name="removeItem">remove</string>
+    <string name="content_description_add">contentDescAdd</string>
+    <string name="content_description_remove">contentDescRemove</string>
+    <string name="cryptos">Cryptos</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="close">Close</string>
+    <string name="rank">Rank : </string>
+    <string name="price">Price : </string>
+    <string name="Change_24h">Change (24h) : </string>
+    <string name="Change_7d">Change (7d) : </string>
+    <string name="Change_30d">Change (30d) : </string>
+    <string name="market_cap">Market Cap : </string>
+    <string name="volume">Volume : </string>
+    <string name="parentheses1">(</string>
+    <string name="parentheses2">)</string>
+    <string name="deleteItem">Delete</string>
+    <string name="title_activity_remove">RemoveActivity</string>
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="krypto">KRYPTO</string>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/deleteButtonID"
+        android:icon="@drawable/ic_rubbish_bin2"
+        android:title="@string/deleteItem"
+        android:contentDescription="@string/content_description_remove"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/cancelButtonID"
+        android:icon="@drawable/ic_close"
+        android:title="@string/addItem"
+        android:contentDescription="@string/content_description_add"
+        app:showAsAction="ifRoom" />
+
+</menu>
